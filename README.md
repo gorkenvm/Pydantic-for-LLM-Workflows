@@ -9,7 +9,9 @@ To make them **robust, structured, and practically useful**, we need the right t
 Through interactive notebooks, you’ll learn:  
 - **Validating outputs** for safety & correctness  
 - **Structuring responses** with Pydantic models  
-- **Calling external tools/APIs** dynamically  
+- **Calling external tools/APIs** dynamically
+
+![Banner](./assets/banner.png)
 
 ---
 
